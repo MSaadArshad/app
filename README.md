@@ -1,5 +1,6 @@
 The API code is in server/index.js.\
 The Frontend Application code is in client/src/App.js.
+The tests folder contains snippets of the API tests performed in Postman.
 
 Run `npm i` to install the required dependencies.
 
