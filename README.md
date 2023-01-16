@@ -7,4 +7,4 @@ The endpoints can be accessed at [http://localhost:3001](http://localhost:3001) 
 To run the frontend application code navigate to client directory using `cd client` in a separate terminal window then call `npm start`.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-NOTE: Both client and server code needs to run simultaneously 
+NOTE: Both client and server code needs to run simultaneously in separate terminal windows.
