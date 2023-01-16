@@ -1,6 +1,8 @@
 The API code is in server/index.js.\
 The Frontend Application code is in client/src/App.js.
 
+Run `npm i` to install the required dependencies.
+
 To run the API server call `npm start` in the root directory which spins up a local server at port 3001.\
 The endpoints can be accessed at [http://localhost:3001](http://localhost:3001) with the correct authentication token.
 
